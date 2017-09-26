@@ -1,6 +1,6 @@
 # hexo-theme-mip-apollo
 
-Hexo MIP 模板, [在线预览](https://xuexb.github.io/hexo-theme-mip-demo/)，思路来自 [@xuexb/hexo-theme-mip](https://github.com/xuexb/hexo-theme-mip) 和 [@pinggod/hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo)
+Hexo MIP 模板, [在线预览](https://yugasun.github.io/hexo-theme-mip-apollo-demo/)，思路来自 [@xuexb/hexo-theme-mip](https://github.com/xuexb/hexo-theme-mip) 和 [@pinggod/hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo)
 
 ## 安装
 
