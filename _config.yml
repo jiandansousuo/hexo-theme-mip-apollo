@@ -9,16 +9,11 @@ favicon: /favicon.ico
 logo: /img/logo.jpg
 logo_mini: /img/logo_rect.jpg
 
-# Comment
-# e.g disqus: yugasun
-disqus: false
-
 # Analytics
-# google-analytics:
-ga: false
 
 # baidu-analytics
-baidutongji: false
+# baidutongji will be supported soon
+# baidutongji: false
 
 # Copyright Infomation
 startyear: 2017
